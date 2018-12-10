@@ -56,7 +56,7 @@ xp: 50
 
 ---
 
-## Lesson 2.1 - Relational to Flat structure
+## Lesson 1.3 - Example to Set Up Tables
 
 ```yaml
 type: VideoExercise
