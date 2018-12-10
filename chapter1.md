@@ -40,3 +40,29 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: cbbdeb8cf4
+xp: 50
+```
+
+`@projector_key`
+75b2e12632fcf88c300c505d0b1f6a5c
+
+---
+
+## Lesson 2.1 - Relational to Flat structure
+
+```yaml
+type: VideoExercise
+key: 0a0d710add
+xp: 50
+```
+
+`@projector_key`
+b7100554f028184c77b6c33abd78e2d5
